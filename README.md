@@ -1,2 +1,2 @@
 # special-octo-fortnight
-my first page
+my first webpage
