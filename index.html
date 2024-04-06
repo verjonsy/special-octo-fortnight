@@ -15,6 +15,9 @@
         $('body').terminal({
             hello: function(what) {
                 this.echo('Hello, ' + what + '. Welcome to this terminal.');
+            },
+            about: function(){
+                this.echo('here is the linkedin profile: ' + 'https://www.linkedin.com/in/veejone-khoo/');
             }
         }, {
             greetings: 'Just a Web Terminal with nothing on it'
